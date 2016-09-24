@@ -7,7 +7,7 @@ xiugaile!!!
 Stupid boss!!!
 Creating a new branch is quick
 <<<<<<< HEAD
-Creating a new branch is quick && simple, master
+Creating a new branch is quick && simple, feature1, haha
 =======
 Creating a new branck is quick && simple, feature1
 >>>>>>> feature1
